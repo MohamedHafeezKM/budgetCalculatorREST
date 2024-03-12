@@ -1,0 +1,14 @@
+1. --to register users---
+
+url:lh/api/register/
+meathod:post
+data:{username,email,password}
+authrization:nill
+
+
+2. --genertae token----
+
+url:lh/api/generate_token/
+meathod:post
+data:{username,email,password}
+authrization:nill
